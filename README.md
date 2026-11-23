@@ -11,3 +11,4 @@
 | [TD05](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 | [TD06](td06_enonce.ipynb) | Logique, flux de contrôle et boucles | :white_check_mark: |
 | [TD07](td07_enonce.ipynb) | Étude de cas + Mini-projet 1 | :white_check_mark: |
+| [TD08](td08_enonce.ipynb) | Pandas : agrégation et transformation | :white_check_mark: |
