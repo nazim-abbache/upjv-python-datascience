@@ -1,5 +1,5 @@
 # upjv-python-datascience
-Travaux dirigés Phython & Data Science Étudiante : Nazim ABBACHE Formation : M1 MBFA — UPJV Amiens
+Travaux dirigés Phython & Data Science Étudiant : Nazim ABBACHE Formation : M1 MBFA — UPJV Amiens
 Année : 2026-2027
 ## Travaux dirigés (TD)
 
